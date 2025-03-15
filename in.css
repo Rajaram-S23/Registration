@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Roboto Slab", serif;
+    background-image: url("bg.jpg");
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+#p{
+    text-align: center;
+    color: rgb(47, 47, 94);
+}
+button{
+    
+    background-color: rgb(47, 47, 94);
+    padding: 10px;
+    margin: 2px;
+    border: none;
+    border-radius: 7px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.con{
+    padding-top: 20%;
+    padding-left: 30%;
+}
+.con2{
+    text-align: center;
+}
